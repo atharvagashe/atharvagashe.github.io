@@ -645,12 +645,12 @@ input, select, textarea {
 		margin-right: auto;
 	}
 	
-	.cloutgod {
+	#cloutgod {
 		object-fit: contain;
 		height: 50vh;
 	}
 
-	.spaceneedle {
+	#spaceneedle {
 		display: block;
 		object-fit: contain;
 		height: 52vh;
