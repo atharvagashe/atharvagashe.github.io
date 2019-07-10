@@ -647,12 +647,13 @@ input, select, textarea {
 	
 	.cloutgod {
 		object-fit: contain;
-		height: 20em;
+		height: 50vh;
 	}
 
 	.spaceneedle {
 		display: block;
 		object-fit: contain;
+		height: 52vh;
 	}
 
 	.image {
