@@ -645,6 +645,15 @@ input, select, textarea {
 		margin-right: auto;
 	}
 	
+	.cloutgod {
+		object-fit: contain;
+		height: 20em;
+	}
+
+	.spaceneedle {
+		display: block;
+		object-fit: contain;
+	}
 
 	.image {
 		border-radius: 4px;
