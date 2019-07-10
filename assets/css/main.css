@@ -644,17 +644,6 @@ input, select, textarea {
 		margin-left: auto;
 		margin-right: auto;
 	}
-	
-	#cloutgod {
-		object-fit: contain;
-		height: 50vh;
-	}
-
-	#spaceneedle {
-		display: block;
-		object-fit: contain;
-		height: 52vh;
-	}
 
 	.image {
 		border-radius: 4px;
